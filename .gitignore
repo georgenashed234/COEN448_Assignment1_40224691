@@ -1,0 +1,28 @@
+# Maven
+/target/
+
+# Compiled class files
+*.class
+
+# IDE files
+.classpath
+.project
+.settings/
+.vscode/
+.idea/
+*.iml
+
+# Coverage and reports
+.clover/
+coverage-reports/
+
+# Archives and packages
+*.zip
+*.jar
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Rewrite config (keep if needed)
+#rewrite.yml
